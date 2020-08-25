@@ -24,6 +24,7 @@ The first page “home.php” will be featuring a login button for admin/user/te
  * Download the project and Setup the localhost.
  * After the localhost connection has been established the `code` folder must be placed into the `htdocs` folder ( a subfolder in the main XAMPP installation directory folder). 
  * Database (in `database` folder) must be imported into MySQL for the code to function properly, Database username and password are the default onez for Xampp.
+ * Run `composer install` to download all the required packages, the packages will be loaded from `composer.lock` file.
  * To run the project type the link http://localhost[:PORT_NO_IF_ANY]/ [the name of the project folder]/ into the URL bar of the browser, which will take you to the home.php page. The process after that is already explained above.
 
 # Project Demo
