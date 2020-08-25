@@ -24,7 +24,7 @@ The first page “home.php” will be featuring a login button for admin/user/te
  * Download the project and Setup the localhost.
  * After the localhost connection has been established the `code` folder must be placed into the `htdocs` folder ( a subfolder in the main XAMPP installation directory folder). 
  * Database (in `database` folder) must be imported into MySQL for the code to function properly, Database username and password are the default onez for Xampp.
- * To run the project type the link http://localhost[:PORT_NO_IF_ANY]/[the name of the project folder]/ into the URL bar of the browser, which will take you to the home.php page. The process after that is already explained above.
+ * To run the project type the link http://localhost[:PORT_NO_IF_ANY]/ [the name of the project folder]/ into the URL bar of the browser, which will take you to the home.php page. The process after that is already explained above.
 
 # Project Demo
 A demo video is available on [https://youtu.be/Jcf9aVP1OMU]. Previews are also available on this repo in `Previews` Folder
@@ -32,4 +32,4 @@ A demo video is available on [https://youtu.be/Jcf9aVP1OMU]. Previews are also a
 # More Info
 The project was created 11-12 months before today(25/8/2020) on PHP-7.0 version, i had no clue about Github at that time so did'nt uploaded back then, the project does have some bugs which i did not fix.This project is an extension of my first project [https://github.com/huzaifa-99/attendance-system-php] and uses the same database.
 
-The main aim of this project was for me to use a third party API/package and understand how composer works.
+The main aim of this project was for me to use a third party API/package and understand how `composer` works.
